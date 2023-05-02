@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "Swadge_Parts")(type "KiCad")(uri "${KIPRJMOD}/../Swadge-Parts/Swadge_Parts.pretty")(options "")(descr ""))
-)
