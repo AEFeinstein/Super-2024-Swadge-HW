@@ -515,6 +515,26 @@
       {
         "netclass": "Micro",
         "pattern": "GND"
+      },
+      {
+        "netclass": "Micro",
+        "pattern": "003*"
+      },
+      {
+        "netclass": "Micro",
+        "pattern": "TOUCH*"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "003*"
+      },
+      {
+        "netclass": "Micro",
+        "pattern": "LED"
+      },
+      {
+        "netclass": "Micro",
+        "pattern": "MIC"
       }
     ]
   },

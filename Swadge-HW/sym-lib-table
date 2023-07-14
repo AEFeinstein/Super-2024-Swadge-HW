@@ -1,3 +1,4 @@
 (sym_lib_table
+  (version 7)
   (lib (name "Swadge_Parts")(type "KiCad")(uri "${KIPRJMOD}/../Swadge-Parts/Swadge_Parts.kicad_sym")(options "")(descr ""))
 )
