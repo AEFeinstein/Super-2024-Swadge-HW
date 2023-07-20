@@ -489,7 +489,7 @@
         "pattern": "BATT*"
       },
       {
-        "netclass": "Micro",
+        "netclass": "Power",
         "pattern": "+3V3"
       },
       {
@@ -497,11 +497,11 @@
         "pattern": "Net-(D10-K)"
       },
       {
-        "netclass": "Default",
+        "netclass": "Power",
         "pattern": "+3V3"
       },
       {
-        "netclass": "Micro",
+        "netclass": "Power",
         "pattern": "+3V3"
       },
       {
