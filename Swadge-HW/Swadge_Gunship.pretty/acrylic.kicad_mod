@@ -1,6 +1,6 @@
 (footprint "acrylic" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr smd)
+  (attr smd allow_missing_courtyard)
   (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp b90bdfa4-7a01-44ca-b369-6648bd9dac67)
