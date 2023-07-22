@@ -97,7 +97,7 @@
         "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "ignore",
-        "starved_thermal": "warning",
+        "starved_thermal": "error",
         "text_height": "warning",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
@@ -497,14 +497,6 @@
         "pattern": "Net-(D10-K)"
       },
       {
-        "netclass": "Power",
-        "pattern": "+3V3"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "+3V3"
-      },
-      {
         "netclass": "Micro",
         "pattern": "SDA"
       },
@@ -515,6 +507,26 @@
       {
         "netclass": "Micro",
         "pattern": "GND"
+      },
+      {
+        "netclass": "Micro",
+        "pattern": "003*"
+      },
+      {
+        "netclass": "Micro",
+        "pattern": "TOUCH*"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "003*"
+      },
+      {
+        "netclass": "Micro",
+        "pattern": "LED"
+      },
+      {
+        "netclass": "Micro",
+        "pattern": "MIC"
       }
     ]
   },
@@ -563,7 +575,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "./output",
+    "plot_directory": "C:/Users/gelak/Desktop/",
     "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
