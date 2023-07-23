@@ -489,12 +489,20 @@
         "pattern": "BATT*"
       },
       {
-        "netclass": "Power",
+        "netclass": "Micro",
         "pattern": "+3V3"
       },
       {
         "netclass": "Power",
         "pattern": "Net-(D10-K)"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "+3V3"
+      },
+      {
+        "netclass": "Micro",
+        "pattern": "+3V3"
       },
       {
         "netclass": "Micro",
@@ -575,7 +583,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "C:/Users/gelak/Desktop/",
+    "plot_directory": "./output",
     "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
