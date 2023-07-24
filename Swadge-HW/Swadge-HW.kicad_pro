@@ -97,7 +97,7 @@
         "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "ignore",
-        "starved_thermal": "warning",
+        "starved_thermal": "error",
         "text_height": "warning",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
@@ -515,6 +515,26 @@
       {
         "netclass": "Micro",
         "pattern": "GND"
+      },
+      {
+        "netclass": "Micro",
+        "pattern": "003*"
+      },
+      {
+        "netclass": "Micro",
+        "pattern": "TOUCH*"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "003*"
+      },
+      {
+        "netclass": "Micro",
+        "pattern": "LED"
+      },
+      {
+        "netclass": "Micro",
+        "pattern": "MIC"
       }
     ]
   },
