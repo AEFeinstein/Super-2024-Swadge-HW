@@ -467,76 +467,7 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": [
-      {
-        "netclass": "Power",
-        "pattern": "SNODE"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "+5V"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "5VIN"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "Net-(U3-LX)"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "BATT*"
-      },
-      {
-        "netclass": "Micro",
-        "pattern": "+3V3"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "Net-(D10-K)"
-      },
-      {
-        "netclass": "Default",
-        "pattern": "+3V3"
-      },
-      {
-        "netclass": "Micro",
-        "pattern": "+3V3"
-      },
-      {
-        "netclass": "Micro",
-        "pattern": "SDA"
-      },
-      {
-        "netclass": "Micro",
-        "pattern": "SCL"
-      },
-      {
-        "netclass": "Micro",
-        "pattern": "GND"
-      },
-      {
-        "netclass": "Micro",
-        "pattern": "003*"
-      },
-      {
-        "netclass": "Micro",
-        "pattern": "TOUCH*"
-      },
-      {
-        "netclass": "Default",
-        "pattern": "003*"
-      },
-      {
-        "netclass": "Micro",
-        "pattern": "LED"
-      },
-      {
-        "netclass": "Micro",
-        "pattern": "MIC"
-      }
-    ]
+    "netclass_patterns": []
   },
   "pcbnew": {
     "last_paths": {
