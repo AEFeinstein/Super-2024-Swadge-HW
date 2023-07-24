@@ -9018,7 +9018,7 @@
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_PINREX-210-91-05GB03_C390683.pdf" (at 240.03 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "NOPOP_390683" (at 240.03 100.33 0)
+    (property "LCSC" "~" (at 240.03 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Digikey" "" (at 240.03 100.33 0)
