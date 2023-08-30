@@ -171,7 +171,12 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.0,
+        0.18,
+        0.2,
+        0.25,
+        0.4
       ],
       "via_dimensions": [
         {
@@ -412,7 +417,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.20828,
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -429,7 +434,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.20828,
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -446,7 +451,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.20828,
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -467,7 +472,44 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Power",
+        "pattern": "+3V3"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "+5V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "5VIN"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "SNODE"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "BATTPLUS"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "BATTMID"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "BATTMID2"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "VMON"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "Net-(U3-FB)"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
