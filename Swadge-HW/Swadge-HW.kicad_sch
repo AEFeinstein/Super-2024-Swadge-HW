@@ -6026,7 +6026,7 @@
     (property "Reference" "R3" (at 239.395 36.83 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "3.3k" (at 238.76 31.75 90)
+    (property "Value" "5.1k" (at 238.76 31.75 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Swadge_Parts:R_0603_1608Metric" (at 239.014 33.274 90)
@@ -6044,7 +6044,7 @@
     (property "Substitutable" "Y" (at 284.48 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C22978" (at 238.76 34.29 0)
+    (property "LCSC" "C23186" (at 238.76 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 638c843b-819c-4e10-b513-42269b2c231f))
@@ -10223,8 +10223,8 @@
     (property "LCSC" "C529870" (at 247.65 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c18ac8dd-2ea5-44b9-b31f-da230090fd0f))
-    (pin "2" (uuid b591995c-8d2e-48e2-af17-7107c0bd5ac3))
+    (pin "1" (uuid b13efd4e-7ee7-43e7-99d4-5666f344f3ed))
+    (pin "2" (uuid fe1b0955-11ad-47fe-b86d-eaf55927cc00))
     (instances
       (project "Swadge-HW"
         (path "/770c762f-3a30-4864-b7da-de353459cdd6"
