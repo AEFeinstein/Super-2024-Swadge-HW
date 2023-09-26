@@ -6390,7 +6390,7 @@
     (property "Value" "Acrylic" (at 228.6 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Swadge_Gunship:acrylic_2_outline" (at 228.6 153.67 0)
+    (property "Footprint" "Swadge_Gunship:acrylic" (at 228.6 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 228.6 153.67 0)
@@ -6795,6 +6795,30 @@
       (project "Swadge-HW"
         (path "/770c762f-3a30-4864-b7da-de353459cdd6"
           (reference "L1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Swadge_Gunship:Acrylic") (at 224.79 151.13 0) (unit 1)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 3e376ad6-0162-4ff1-b128-a3bf63b56c6f)
+    (property "Reference" "A3" (at 227.33 151.765 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "Acrylic" (at 224.79 151.13 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Footprint" "Swadge_Gunship:ship-silk" (at 224.79 151.13 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 224.79 151.13 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Swadge-HW"
+        (path "/770c762f-3a30-4864-b7da-de353459cdd6"
+          (reference "A3") (unit 1)
         )
       )
     )
