@@ -5799,7 +5799,7 @@
   )
 
   (symbol (lib_id "Swadge_Parts:C") (at 247.65 163.83 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 17249f15-535f-440f-9154-0ab1831bd5fe)
     (property "Reference" "C14" (at 248.285 158.75 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6547,7 +6547,7 @@
   )
 
   (symbol (lib_id "Swadge_Parts:C") (at 254 163.83 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 3790e582-fc08-4056-81df-86f2ac96db0c)
     (property "Reference" "C15" (at 248.92 168.91 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7033,7 +7033,7 @@
   )
 
   (symbol (lib_id "Swadge_Parts:R_US") (at 247.65 156.21 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 48df6a37-96a1-4e4a-a43e-ec54a67f8abb)
     (property "Reference" "R6" (at 245.11 158.75 90)
       (effects (font (size 1.27 1.27)))
@@ -7358,7 +7358,7 @@
   )
 
   (symbol (lib_id "Swadge_Parts:QMC6308") (at 266.7 156.21 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 53813389-6c02-41e7-aa61-c78fe4f32096)
     (property "Reference" "U9" (at 266.7 152.0769 0)
       (effects (font (size 1.27 1.27)))
