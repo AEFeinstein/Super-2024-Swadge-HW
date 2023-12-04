@@ -55,14 +55,14 @@ Injection Molded shells are only available at the Fangamer Merch Booth at Super 
 
 To print your own simple model:
  
-Identify which type of printing technology you’d like to use to replicate your Barrier Shell It’s sincerely not recommended to use the Injection Molding files for FDM printers, though you could (probably) SLA it with some adjustment. This print has not been tested with SLS. 
+Identify which type of printing technology youâ€™d like to use to replicate your Barrier Shell Itâ€™s sincerely not recommended to use the Injection Molding files for FDM printers, though you could (probably) SLA it with some adjustment. This print has not been tested with SLS. 
 <br />
 
 ### Materials
 
 Materials required vary based on your printing method. It is recommended to print the FDM Shell with PETG, but really you can use any filament on hand.
 
-You’ll need:
+Youâ€™ll need:
 
 An FDM 3D printer with a minimum build volume of 150mm x 150mm x 10mm. The Barrier Shell was designed to minimize excess support structure and should be printed flat.
 
@@ -89,7 +89,7 @@ Any M3 x 8mm self tapping screw. The Barrier Shells were delivered at MAGFest 20
 
 SLA Fasteners:
 
-Most resin is not tappable. We’d recommend using an M3 x ~14mm screw and a nut.
+Most resin is not tappable. Weâ€™d recommend using an M3 x ~14mm screw and a nut.
  
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -121,7 +121,7 @@ Don't forget to give the project a star! Thanks again!
 
 Emily Anthony - [@thelegendofemily](https://www.thelegendofemily.com) 
 
-Greg Lord –
+Greg Lord â€“
 [@gplord]( https://www.gplord.com/)
 
 
@@ -138,7 +138,7 @@ Project Link: https://github.com/AEFeinstein/Super-2024-Swadge-HW/
 
 * The Swadge team for idea generation, continuous feedback, and excellent vibes
 * MAGFest volunteers and employees for their overwhelming support and willingness to help push this side project
-* [OthNealDrew’s Readme template]( https://github.com/othneildrew/Best-README-Template)
+* [OthNealDrewâ€™s Readme template]( https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
