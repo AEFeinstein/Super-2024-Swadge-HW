@@ -10,11 +10,11 @@ If you have any questions, feel free to create a Github ticket or email us at ci
 
 ## Render
 
-Coming eventually!
+<img src="./Swadge-HW/render.png" width="830">
 
 ## Schematic
 
-Coming eventually!
+<img src="./Swadge-HW/schematic.svg" width="830">
 
 ## Directories
 
